@@ -85,11 +85,11 @@ section#img03{
     background-image: url(../imagens/3.jpg);
     background-position: right center;
 background-repeat: no-repeat;
-background-size: cover;
+background-size: contain;
 }
 section#img04{
     background-image: url(../imagens/22.jpg);
     background-position: right center;
 background-repeat: no-repeat;
-background-size: cover;
+background-size: contain;
 }
